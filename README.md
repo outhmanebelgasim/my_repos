@@ -1,2 +1,2 @@
 # my_repos
-paractice account for learning account 
+paractice account for learning git
